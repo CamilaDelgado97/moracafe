@@ -40,6 +40,7 @@ a:hover {
 .taza-cafe {
     height: 278px;
     margin: 3em;
+    border-radius: 42px;
 }
 .card1 {
     padding: 1em;
